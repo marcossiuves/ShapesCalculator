@@ -17,7 +17,7 @@ This method will return a double value which consists in the base times the heig
 This method will return a double value which consists in the pi multiplied by the radius squared</br>
 
 Atributos da classe main: </br>
-<font color = "grey">//(lado, raio, altura, base)</br></font>
+<font color = "red">//(lado, raio, altura, base)</br></font>
 side, radius, height, base</br>
 
 Todos os valores dos atributos são informados pelo usuário. </br>
