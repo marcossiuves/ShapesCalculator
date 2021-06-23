@@ -1,37 +1,37 @@
-# ShapesCalculator
+# ShapesCalculator</br>
 
-Main class atributes: 
-side, radius, height, base
+Main class atributes: </br>
+side, radius, height, base</br>
 
-Every atribute is informed by the user. 
+Every atribute is informed by the user. </br>
 
-The options of the menu are:
+The options of the menu are:</br>
 
-1 - Square area
+1 - Square area</br>
 This method will return a double value which consists in the side squared</br>
-2 - Rectangle area
-This method will return a double value which consists in the base times the height
-3 - Right Triangle area 
+2 - Rectangle area</br>
+This method will return a double value which consists in the base times the height</br>
+3 - Right Triangle area </br>
 This method will return a double value which consists in the base times the height divided by 2
-4 - Circle area
-This method will return a double value which consists in the pi multiplied by the radius squared
+4 - Circle area</br>
+This method will return a double value which consists in the pi multiplied by the radius squared</br>
 
-Atributos da classe main: 
-//(lado, raio, altura, base)
-side, radius, height, base
+Atributos da classe main: </br>
+<font color = "grey">//(lado, raio, altura, base)</br></font>
+side, radius, height, base</br>
 
-Todos os valores dos atributos são informados pelo usuário. 
+Todos os valores dos atributos são informados pelo usuário. </br>
 
-As opções do menu são: 
+As opções do menu são: </br>
 
-1 - Área do quadrado.
-Metodo que retorna um valor do tipo double que consiste no valor do lado(side) ao quadrado
-2 - Área do retângulo.
-Metodo que retorna um valor do tipo double que consiste no valor da base vezes a altura(height)
-3 - Área do triângulo retângulo
-Metodo que retorna um valor do tipo double que consiste no valor da base vezes a altura(height) dividido por 2
-4-  Área do círculo
-Metodo que retorna um valor do tipo double que consiste no valor de pi vezes o raio ao quadrado
+1 - Área do quadrado.</br>
+Metodo que retorna um valor do tipo double que consiste no valor do lado(side) ao quadrado</br>
+2 - Área do retângulo.</br>
+Metodo que retorna um valor do tipo double que consiste no valor da base vezes a altura(height)</br>
+3 - Área do triângulo retângulo</br>
+Metodo que retorna um valor do tipo double que consiste no valor da base vezes a altura(height) dividido por 2</br>
+4-  Área do círculo</br>
+Metodo que retorna um valor do tipo double que consiste no valor de pi vezes o raio ao quadrado</br>
 
 
 
