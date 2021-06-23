@@ -1,5 +1,5 @@
 # ShapesCalculator</br>
- `` `html 
+
 Main class atributes: </br>
 side, radius, height, base</br>
 
@@ -18,7 +18,7 @@ This method will return a double value which consists in the pi multiplied by th
 
 Atributos da classe main: </br>
 
-<font color = "grey">//(lado, raio, altura, base)</font></br>
+//(lado, raio, altura, base)</br>
 
 side, radius, height, base</br>
 
@@ -34,6 +34,6 @@ Metodo que retorna um valor do tipo double que consiste no valor da base vezes a
 Metodo que retorna um valor do tipo double que consiste no valor da base vezes a altura(height) dividido por 2</br>
 4-  Área do círculo</br>
 Metodo que retorna um valor do tipo double que consiste no valor de pi vezes o raio ao quadrado</br>
-```
+
 
 
