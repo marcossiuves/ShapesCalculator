@@ -8,7 +8,7 @@ Every atribute is informed by the user.
 The options of the menu are:
 
 1 - Square area
-This method will return a double value which consists in the side squared
+This method will return a double value which consists in the side squared</br>
 2 - Rectangle area
 This method will return a double value which consists in the base times the height
 3 - Right Triangle area 
